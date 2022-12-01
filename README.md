@@ -1,6 +1,6 @@
 # Placement Portal
 
-This is a portal for placement activities of institute. For demo, visit [this link](placementportal.rf.gd/). For admin login, use ID 1 and Password 123.
+This is a portal for placement activities of institute. For demo, visit [this link](http://placementportal.rf.gd/). For admin login, use ID 1 and Password 123.
 
 ## Tools / Technologies Used
 
